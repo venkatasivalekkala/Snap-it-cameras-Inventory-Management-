@@ -1,0 +1,28 @@
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+
+<head>
+	<title>Cameras</title>
+	<meta http-equiv="content-type" 
+		content="text/html;charset=utf-8" />
+	<meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate" />
+    <meta http-equiv="Pragma" content="no-cache" />
+    <meta http-equiv="Expires" content="0" /> 
+		
+ <link rel="stylesheet" type="text/css" href="/~jadrn013/proj1/css/style.css" />   
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script type="text/javascript" src="/~jadrn013/proj1/js/ajax_healper.js"></script>
+<script type="text/javascript" src="/~jadrn013/proj1/js/validation.js"></script>
+</head>
+
+<body>
+<h1> Cameras </h1>
+
+      
+<div id="menu">
+<ul>
+<li><a id="NewInventory" >New Inventory</a></li>
+<li><a id="EditInventory" >Edit Inventory</a></li>
+<li><a id="DeleteInventory" >Delete Inventory</a></li>
+<li><a id="LogOut" >LogOut</a></li>
+</ul>
+</div>

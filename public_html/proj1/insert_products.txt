@@ -1,0 +1,6 @@
+use jadrn013;
+
+DELETE FROM product;
+
+INSERT INTO product VALUES(
+'ABC-123',2,1,'Ti-6','Entry level DSLR','20 Mpixels',639.15,899.95,'ABC-123.jpg');

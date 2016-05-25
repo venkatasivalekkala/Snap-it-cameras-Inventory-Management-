@@ -1,0 +1,58 @@
+
+body {
+background-image: url(../images/cam.jpg); 
+background-size: cover;
+min-height: 100%;
+min-width: 98%;
+position:relative;
+}
+#status {
+color: red;
+text-align:center;
+}
+
+h1{ 
+text-align: center; 
+text-align: center;
+font-size: 400%;
+}
+   
+table {
+margin: 25px auto 25px auto;
+border:	2px solid black;
+border-radius: 25px;
+padding: 20px;
+   }   
+
+td{
+margin: 20px 0px 20px 0px;
+padding-top:10px;
+}
+
+.usr_pass_label{
+font-size: 150%;
+}
+
+input {
+font-size: 120%;
+}
+	
+.login_usr_pas{
+font-size: 200%;
+}
+	
+.button {
+width:100px;
+background-color: white;
+padding: 3px 5px 3px 5px;
+font-size: 100%;
+margin-top:15px;
+margin-left: 50px;
+border-radius: 15px;
+border-style: solid;
+}
+
+.error {
+color: red;
+text-align:center;
+}

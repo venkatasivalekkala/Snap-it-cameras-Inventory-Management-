@@ -1,0 +1,182 @@
+
+body, html{
+background-size: cover;
+background-image: url(../images/cam1.jpg); 
+font-family: Arial, Helvetica, sans-serif;
+background-color: #ECECEA;
+}
+
+#container{
+min-height:500px;
+min-width:1100px;
+} 
+
+#menu{
+text-align: center;
+width: 100%;
+height:3em;  
+padding:0px;  
+background: #558C89;
+font-family: Arial,Helvetica,sans-serif;
+overflow:hidden;
+margin:0px 0px 20px 0px;
+}
+	 
+#menu ul {
+text-align: center;
+margin-bottom: 30px;
+
+}
+		
+#menu li {
+display: inline;
+margin-left: -5px;
+}
+		
+#menu a {
+text-decoration: none;
+padding: 10px 10px 10px 10px;
+font-weight: bold;
+border: 5px solid #558C89;
+color:  white;
+background-color: #558C89;
+}
+
+#menu a:hover {
+border: 5px solid #74AFAD;
+background-color: #74AFAD;
+}
+
+#menu li a.selected {
+text-decoration: underline;
+border-color: #476765;
+background-color: #476765;
+}
+
+ul{
+list-style-type: none;
+}
+
+ul.inlineobjects li{
+display: inline-block;
+margin:0px 0px 0px 0px;
+}
+	
+#button,.div_confirm_button {
+text-align: center;
+padding-top: 4px;
+} 
+/* , .div_confirm_button */
+#searchDiv {
+text-align: center;
+}
+ 
+#sku_search{
+margin-left:5px;
+}
+
+span.astric{
+color: red;
+}
+
+h1{
+text-align: center;
+font-size: 400%;
+margin: 0px 0px 10px 0px;
+color:#D9853B;
+}
+
+h2{
+text-align: center;
+font-size: 150%;
+color: #CC7A00;
+}
+	
+h3{
+text-align: center;
+font-size: 150%;
+}
+	
+.title {   
+float: right;
+width: 200px;
+text-align: left;
+padding-right: 20px;
+padding-left: 400px;
+margin-right: 100px;
+}
+
+.formbutton{
+width:100px;
+background-color: #4C5D5C;
+color:white;
+padding: 8px 10px 8px 10px;
+font-size: 100%;
+margin-right: 30px;
+border-radius: 15px;
+border-style: solid;
+}
+
+.searchbutton{
+background-color: #4C5D5C;
+color:white;
+padding: 3px 10px 3px 10px;
+margin: 0px 0px 0px 20px;
+font-size: 100%;
+margin-right: 30px;
+border-radius: 15px;
+border-style: solid;
+}
+
+.newInventory{
+background-color: #4C5D5C;
+padding: 10px 10px 10px 10px;
+font-size: 100%;
+margin-top: 20px;
+border-radius: 15px;
+color:white;
+}
+
+#error_message{
+color: #ff0000;
+font-style: italic;
+text-align: center;
+}
+
+#delete_confirm_msg{
+color: #003399;
+text-align: center;
+font-weight: bold;
+font-size: 120%;
+}
+/* 
+.error {
+color: red;
+border: 1px solid red;
+}
+ */
+
+.progressTextDiv {
+width: 200px;
+height: 100px;
+text-align: center;
+position: fixed;
+top: 50%; 
+left: 50%;
+font-weight: bold;
+}
+
+table {
+margin:auto;
+}
+
+.lefttd{
+padding-bottom: 2%;
+text-align:left;
+padding-left:120px;
+}
+
+.righttd{
+padding-bottom: 2%;
+padding-left:50px;
+}
