@@ -1,1 +1,1 @@
-# Snap-it-cameras-Inventory-Management-
+# Snap it cameras Inventory Management
